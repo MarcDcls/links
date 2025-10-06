@@ -1,3 +1,3 @@
 # Links
 
-Repository for storing redirect links and QR codes.
+Repository for storing redirect links. To generate a QR for a redirect link, use https://qr.io/
